@@ -6,7 +6,7 @@ This my SQL class handson, where i practiced what my facilitator thought on SQL 
 ### DATA SOURCE
 The primary source of data used is from FACILITATO FEMI AYODELE of The incubator HUB which can be accessed via THe incubator hub channel on u-tube
 ### Tools Used
-microsoft Excel for data cleaning, analysis and visualization
-SQL - Strutured Query Language for query of language
-Github for portfolio building
+- microsoft Excel for data cleaning, analysis and visualization
+- SQL - Strutured Query Language for query of language
+- Github for portfolio building
 
