@@ -2,7 +2,7 @@
 
 ### PROJECT TOPIC: SQL HANDSON
 ### PROJECT OVERVIEW
-This my SQL class handson, where i practiced what my facilitator thought on SQL using an EMPLOYEE database, i detailed each screen shot showing the steps by screen shot in order to have it documented.
+This is my SQL class handson, where i practiced what my facilitator thought on SQL using an an  EMPLOYEE database, i detailed each screen shot showing the steps by screen shot in order to have it documented.
 ### DATA SOURCE
 The primary source of data used is from FACILITATOR FEMI AYODELE of The incubator HUB which can be accessed via THe incubator hub channel on u-tube
 ### Tools Used
