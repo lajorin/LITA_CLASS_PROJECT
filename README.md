@@ -1,6 +1,12 @@
 # LITA_CLASS_PROJECT
 
 ### PROJECT TOPIC: SQL HANDSON
+
+[project overview](#project-overview)
+[data source](#data-source)
+[Tools Used](#Tools-Used
+[Data Cleaning and Preparations](#Data-Cleaning-Preparations)
+
 ### PROJECT OVERVIEW
 ```
 This is my SQL class handson, where i practiced what my facilitator thought on SQL using an  EMPLOYEE database, i detailed each screen shot showing the steps by step 
@@ -44,3 +50,4 @@ WHERE CONDITION = TRUE
 [my sql work.docx](https://github.com/user-attachments/files/17345386/my.sql.work.docx)
 
 ```
+
