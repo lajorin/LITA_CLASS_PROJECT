@@ -38,4 +38,9 @@ This is where we include some basic lines of code or queries or even some of the
 ```  SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
+
+### Data Visualization
+```
+[my sql work.docx](https://github.com/user-attachments/files/17345386/my.sql.work.docx)
+
 ```
